@@ -36,7 +36,7 @@ The application includes data preprocessing (handling missing values), categoric
 
 The application is deployed on Streamlit Cloud and can be accessed here:
 
-🔗 [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)
+🔗 [https://your-app-name.streamlit.app](loan-prediction-app-01.streamlit.app/)
 
 *(Replace the above link with your actual deployed app URL.)*
 
